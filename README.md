@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justSWAYAM
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... C++ (DSA)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... just.swayammishra@gmail.com
 
