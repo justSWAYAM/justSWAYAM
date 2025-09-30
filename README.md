@@ -1,12 +1,28 @@
 # Hi there, I'm Swayam Mishra! 👋
 
 ## 🚀 About Me
-I'm a passionate software developer with expertise in full-stack development, cloud technologies, and data science. I love building scalable applications and exploring new technologies. Currently focused on creating impactful solutions using modern web technologies and machine learning.
+I'm a passionate software developer with expertise in full-stack development, cloud technologies, and data science. I love building scalable applications and exploring new technologies. Currently f[...]
 
 - 🔭 I'm currently working on full-stack web applications
 - 🌱 I'm constantly learning and exploring new technologies
 - 💬 Ask me about React, Node.js, Python, or cloud technologies
 - 📫 How to reach me: Connect with me on LinkedIn!
+
+---
+
+<div align="center">
+
+<!-- Night Chill GIF for a welcoming vibe -->
+<p><b>Night Chill</b></p>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" alt="Night Chill" />
+<br><br>
+<!-- Multiprogramming Environment GIF for coding energy -->
+<p><b>Multiprogramming Environment</b></p>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="Multiprogramming Environment" />
+<br>
+</div>
+
+---
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swayam-mishra-a94768235/) 
@@ -70,6 +86,8 @@ I'm a passionate software developer with expertise in full-stack development, cl
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats:
 <div align="center">
   
@@ -81,12 +99,16 @@ I'm a passionate software developer with expertise in full-stack development, cl
 
 </div>
 
+---
+
 ## 🏆 LeetCode Stats:
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/justSWAYAM?theme=dark&font=Karma&ext=heatmap)
 
 </div>
+
+---
 
 ## 🔝 Top Contributed Repositories:
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=justSWAYAM&limit=5&theme=dark&combine_all_yearly_contributions=true)
