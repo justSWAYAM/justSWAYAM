@@ -10,14 +10,14 @@ I'm a passionate software developer with expertise in full-stack development, cl
 
 ---
 
-<div align="center">
+<div align="center" style = "display : flex ; gap :10px;">
 
 <!-- Night Chill GIF for a welcoming vibe -->
-<p><b>Night Chill</b></p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" alt="Night Chill" />
 <br><br>
 <!-- Multiprogramming Environment GIF for coding energy -->
-<p><b>Multiprogramming Environment</b></p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="Multiprogramming Environment" />
 <br>
 </div>
