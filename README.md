@@ -10,16 +10,14 @@ I'm a passionate software developer with expertise in full-stack development, cl
 
 ---
 
-<div align="center" style = "display : flex ; gap :10px;">
+<div align="center">
 
-<!-- Night Chill GIF for a welcoming vibe -->
+<!-- Night Chill GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" alt="Night Chill" /> 
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" alt="Night Chill" />
-<br><br>
-<!-- Multiprogramming Environment GIF for coding energy -->
+<!-- Multiprogramming Environment GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" alt="Multiprogramming Environment" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="Multiprogramming Environment" />
-<br>
 </div>
 
 ---
